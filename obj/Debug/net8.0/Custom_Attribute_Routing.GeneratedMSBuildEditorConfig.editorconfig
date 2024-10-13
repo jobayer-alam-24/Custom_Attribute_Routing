@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\JOBAYER\OneDrive\Tài liệu\Custom_Attribute_Routing
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/JOBAYER/OneDrive/Tài liệu/Custom_Attribute_Routing/Views/Edit/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdFxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOBAYER/OneDrive/Tài liệu/Custom_Attribute_Routing/Views/Edit/CustomError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdFxDdXN0b21FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JOBAYER/OneDrive/Tài liệu/Custom_Attribute_Routing/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
