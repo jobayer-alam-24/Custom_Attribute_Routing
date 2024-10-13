@@ -18,10 +18,10 @@ namespace Custom_Attribute_Routing.Controllers
             _logger = logger;
         }
 
-        [IsAdmin("Mahinur Rahman Khan")]
+        [IsAdmin("Mahinur Rahman Hridoy")]
         public IActionResult Admin(string adminName)
         {
-            if(adminName == "Mahinur Rahman Khan")
+            if(adminName == "Mahinur Rahman Hridoy")
             {
                 return View();
             }
